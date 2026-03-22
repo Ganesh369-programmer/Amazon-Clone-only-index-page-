@@ -24,6 +24,6 @@ A fully responsive frontend clone of Amazon built using modern web technologies.
 ## 💡 Demo
 
 You can view a Live Demo of the project here:  
-## https://amazonclonewe.netlify.app/
-
+##Netlify :- https://amazonclonewe.netlify.app/
+##Render :- ( https://amazon-clone-only-index-page.onrender.com/ )
 
